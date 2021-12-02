@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #303030;
+  background-color: #FB8500;
   color: #FFFFFF;
 }
 
@@ -13,3 +13,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mint-container{
+  text-align: center;
+  margin: 20px auto;
+  border: 3px solid slateblue;
+  width: 30%;
+  padding: 10px;
+  border-radius: 30px;
+
+}
+
